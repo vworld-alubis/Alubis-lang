@@ -7,7 +7,7 @@
 
 ### [アルファ・ビー祖語(仮)](/Alpha-B.md)
 
-### [アルファ・シー祖語(仮)](majukyi.github.io/Alubis/)
+### [アルファ・シー祖語(仮)](https://majukyi.github.io/Alubis/)
 
 ## [ベータ祖語(仮)](/Beta.md)
 
