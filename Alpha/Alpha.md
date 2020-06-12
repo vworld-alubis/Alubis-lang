@@ -9,7 +9,113 @@
 ## 音韻
 
 ### 子音
+<table>
+ <tr>
+  <th></th>
+		<th>両唇</th>
+		<th>唇歯</th>
+		<th>歯茎</th>
+		<th>後部歯茎</th>
+		<th>硬口蓋</th>
+		<th>軟口蓋</th>
+		<th>声門</th>
+	</tr>
+	<tr>
+		<th>破裂</th>
+		<td>p b bʱ</td>
+		<td></td>
+		<td>t d dʱ</td>
+		<td></td>
+		<td></td>
+		<td>k g gʱ</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>鼻</th>
+		<td>m</td>
+		<td></td>
+		<td>n</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>はじき</th>
+		<td></td>
+		<td></td>
+		<td>ɾ</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>摩擦</th>
+		<td></td>
+		<td>f v</td>
+		<td>s z</td>
+		<td>ʃ ʒ</td>
+		<td></td>
+		<td>x ɣ</td>
+		<td>h</td>
+	</tr>
+	<tr>
+		<th>接近</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>j</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>側面</th>
+		<td></td>
+		<td></td>
+		<td>l</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<th>同時調音</th>
+ <td>w</td>
+</table>
 
-| | 両唇 | 唇歯 |
-|:-:|:-:|:-:|
-| **破裂** |p b| |
+### 母音
+<table>
+ <tr>
+  <th></th>
+  <th>前舌(非円唇)</th>
+  <th>前舌(円唇)</th>
+  <th>後舌(円唇)</th>
+ </tr>
+ <tr>
+  <th>狭</th>
+  <td>i</td>
+  <td>y</td>
+  <td>u</td>
+ </tr>
+ <tr>
+  <th>半狭</th>
+  <td></td>
+  <td>ø</td>
+  <td></td>
+ </tr>
+ <tr>
+  <th>半広</th>
+  <td>ɛ</td>
+  <td>œ</td>
+  <td>ɔ</td>
+ </tr>
+ <tr>
+  <th>広</th>
+  <td>a</td>
+  <td></td>
+  <td>ɒ</td>
+ </tr>
+</table>
