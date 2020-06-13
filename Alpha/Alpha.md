@@ -180,5 +180,61 @@
 
 ## 文法
 
+### 特徴
+語順はSOMV・AN・後置詞。
+屈折語的特徴が強く、時制・格などを母音交替による屈折で表す。
+
 ### 名詞
 名詞は3つの数(単数・双数・複数)と、7つの格(原格・主格・対格・与格・奪格・具格・処格)をとる。
+I・II・IIIは母音交替の階梯を表す。
+詳細は[母音交替](#母音交替)参照。
+<table>
+  <tr>
+	  <th class="non"></th>
+		<th>単数</th>
+		<th>双数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>単</th>
+		<td>-I-</td>
+		<td>-I-ɔt</td>
+		<td>-I-ɛp</td>
+	</tr>
+	<tr>
+		<th>主</th>
+		<td>-II-</td>
+		<td>-II-ɔt</td>
+		<td>-II-ɛp</td>
+		</tr>
+	<tr>
+		<th>対</th>
+		<td>-III-</td>
+		<td>-III-ɔt</td>
+		<td>-III-ɛp</td>
+	</tr>
+	<tr>
+		<th>与</th>
+		<td>-III-s</td>
+		<td>-III-ɔts</td>
+		<td>-III-ɛps</td>
+	</tr>
+	<tr>
+		<th>奪</th>
+		<td>-I-t</td>
+		<td>-I-ɔtt</td>
+    <td>-I-ɛpt</td>
+	</tr>
+	<tr>
+		<th>具</th>
+		<td>-III-dʱ</td>
+		<td>-III-ɔtdʱ</td>
+		<td>-III-ɛpdʱ</td>
+	</tr>
+	<tr>
+		<th>処</th>
+		<td>-III-iʃ</td>
+		<td>-III-ɔtiʃ</td>
+		<td>-III-ɛpiʃ</td>
+	</tr>
+</table>
