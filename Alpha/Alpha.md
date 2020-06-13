@@ -98,36 +98,36 @@
 
 ### 母音
 <table>
- <tr>
-  <th></th>
-  <th>前舌(非円唇)</th>
-  <th>前舌(円唇)</th>
-  <th>後舌(円唇)</th>
- </tr>
- <tr>
-  <th>狭</th>
-  <td>i</td>
-  <td>y</td>
-  <td>u</td>
- </tr>
- <tr>
-  <th>半狭</th>
-  <td></td>
-  <td>ø</td>
-  <td></td>
- </tr>
- <tr>
-  <th>半広</th>
-  <td>ɛ</td>
-  <td>œ</td>
-  <td>ɔ</td>
- </tr>
- <tr>
-  <th>広</th>
-  <td>a</td>
-  <td></td>
-  <td>ɒ</td>
- </tr>
+  <tr>
+    <th></th>
+    <th>前舌(非円唇)</th>
+    <th>前舌(円唇)</th>
+    <th>後舌(円唇)</th>
+  </tr>
+  <tr>
+    <th>狭</th>
+    <td>i</td>
+    <td>y</td>
+    <td>u</td>
+  </tr>
+  <tr>
+    <th>半狭</th>
+    <td></td>
+    <td>ø</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>半広</th>
+    <td>ɛ</td>
+    <td>œ</td>
+    <td>ɔ</td>
+  </tr>
+  <tr>
+    <th>広</th>
+    <td>a</td>
+    <td></td>
+    <td>ɒ</td>
+  </tr>
 </table>
 
 #### 長母音
@@ -139,13 +139,46 @@
 語根や、意味の中核に高アクセントがつく。
 
 ### 母音交替
+名詞・動詞ともにこの交替をとる。
 <table>
- <tr>
-  <th></th>
-  <td></td>
- </tr>
+  <tr>
+    <th>I</th>
+    <th>II</th>
+    <th>III</th>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>ɛ</td>
+    <td>i</td>
+  </tr>
+  <tr>
+    <td>ɛ</td>
+    <td>i</td>
+    <td>u</td>
+  </tr>
+  <tr>
+    <td>i</td>
+    <td>u</td>
+    <td>y</td>
+  </tr>
+  <tr>
+    <td>ɒ</td>
+    <td>œ</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>ɔ</td>
+    <td>ø</td>
+    <td>ɛ</td>
+  </tr>
+  <tr>
+    <td>u</td>
+    <td>y</td>
+    <td>i</td>
+  </tr>
 </table>
 
 ## 文法
 
 ### 名詞
+名詞は3つの数(単数・双数・複数)と、7つの格(原格・主格・対格・与格・奪格・具格・処格)をとる。
