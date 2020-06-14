@@ -498,3 +498,533 @@ I・II・IIIは母音交替の階梯を表す。
 ### 動詞
 動詞は4つの法(直説法・命令法・希求法・接続法)3つの態(能動態・中動態・受動態)と5つの相(無相・進行・完了・完結・未完了)、3つの数(単数・双数・複数)と人称に従い屈折する。
 ただし、相によって屈折する法は直接法のみ。
+
+#### 直接法
+能動態
+<table>
+	<tr>
+		<th></th>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<th>無相</th>
+		<td>-I-s</td>
+		<td>-I-ɛf</td>
+		<td>-I-ɛx</td>
+		<td>-I-ɒk</td>
+		<td>-I-im</td>
+		<td>-I-igʱ</td>
+		<td>-I-it</td>
+		<td>-I-iɾ</td>
+		<td>-I-aʃ</td>
+	</tr>
+	<tr>
+		<th>進行</th>
+		<td>-II-s</td>
+		<td>-II-ɛf</td>
+		<td>-II-ɛx</td>
+		<td>-II-ɒk</td>
+		<td>-II-im</td>
+		<td>-II-igʱ</td>
+		<td>-II-it</td>
+		<td>-II-iɾ</td>
+		<td>-II-aʃ</td>
+	</tr>
+	<tr>
+		<th>完了</th>
+		<td>-III-s</td>
+		<td>-III-ɛf</td>
+		<td>-III-ɛx</td>
+		<td>-III-ɒk</td>
+		<td>-III-im</td>
+		<td>-III-igʱ</td>
+		<td>-III-it</td>
+		<td>-III-iɾ</td>
+		<td>-III-aʃ</td>
+	</tr>
+	<tr>
+		<th>完結</th>
+		<td>-III-ɛt</td>
+		<td>-III-ɛt</td>
+		<td>-III-tɛx</td>
+		<td>-III-tɒk</td>
+		<td>-III-tim</td>
+		<td>-III-tigʱ</td>
+		<td>-III-tit</td>
+		<td>-III-tiɾ</td>
+		<td>-III-taʃ</td>
+	</tr>
+	<tr>
+		<th>未完了</th>
+		<td>-I-ss</td>
+		<td>-I-sɛf</td>
+		<td>-I-sɛx</td>
+		<td>-I-sɒk</td>
+		<td>-I-sim</td>
+		<td>-I-sigʱ</td>
+		<td>-I-sit</td>
+		<td>-I-siɾ</td>
+		<td>-I-saʃ</td>
+	</tr>
+</table>
+
+中動態
+<table>
+	<tr>
+		<th></th>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<th>無相</th>
+		<td>-I-aks</td>
+		<td>-I-akɛf</td>
+		<td>-I-akɛx</td>
+		<td>-I-akɒk</td>
+		<td>-I-akim</td>
+		<td>-I-akigʱ</td>
+		<td>-I-akit</td>
+		<td>-I-akiɾ</td>
+		<td>-I-akaʃ</td>
+	</tr>
+	<tr>
+		<th>進行</th>
+		<td>-II-aks</td>
+		<td>-II-akef</td>
+		<td>-II-akɛx</td>
+		<td>-II-akɒk</td>
+		<td>-II-akim</td>
+		<td>-II-akigʱ</td>
+		<td>-II-akit</td>
+		<td>-II-akiɾ</td>
+		<td>-II-akaʃ</td>
+	</tr>
+	<tr>
+		<th>完了</th>
+		<td>-III-aks</td>
+		<td>-III-akɛf</td>
+		<td>-III-akɛx</td>
+		<td>-III-akɒk</td>
+		<td>-III-akim</td>
+		<td>-III-akigʱ</td>
+		<td>-III-akit</td>
+		<td>-III-akiɾ</td>
+		<td>-III-akaʃ</td>
+	</tr>
+	<tr>
+		<th>完結</th>
+		<td>-III-akɛt</td>
+		<td>-III-akɛt</td>
+		<td>-III-aktɛx</td>
+		<td>-III-aktɒk</td>
+		<td>-III-aktim</td>
+		<td>-III-aktigʱ</td>
+		<td>-III-aktit</td>
+		<td>-III-aktiɾ</td>
+		<td>-III-aktaʃ</td>
+	</tr>
+	<tr>
+		<th>未完了</th>
+		<td>-I-akss</td>
+		<td>-I-aksɛf</td>
+		<td>-I-aksɛx</td>
+		<td>-I-aksɒk</td>
+		<td>-I-aksim</td>
+		<td>-I-aksigʱ</td>
+		<td>-I-aksit</td>
+		<td>-I-aksiɾ</td>
+		<td>-I-aksaʃ</td>
+	</tr>
+</table>
+
+受動態
+<table>
+	<tr>
+		<th></th>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<th>定頻</th>
+		<td>-I-ubs</td>
+		<td>-I-ubɛf</td>
+		<td>-I-ubɛx</td>
+		<td>-I-ubɒk</td>
+		<td>-I-ubim</td>
+		<td>-I-ubigʱ</td>
+		<td>-I-ubit</td>
+		<td>-I-ubiɾ</td>
+		<td>-I-ubaʃ</td>
+	</tr>
+	<tr>
+		<th>進行</th>
+		<td>-II-ubs</td>
+		<td>-II-ubɛf</td>
+		<td>-II-ubɛx</td>
+		<td>-II-ubɒk</td>
+		<td>-II-ubim</td>
+		<td>-II-ubigʱ</td>
+		<td>-II-ubit</td>
+		<td>-II-ubiɾ</td>
+		<td>-II-ubaʃ</td>
+	</tr>
+	<tr>
+		<th>完了</th>
+		<td>-III-ubs</td>
+		<td>-III-ubɛf</td>
+		<td>-III-ubɛx</td>
+		<td>-III-ubɒk</td>
+		<td>-III-ubim</td>
+		<td>-III-ubigʱ</td>
+		<td>-III-ubit</td>
+		<td>-III-ubiɾ</td>
+		<td>-III-ubaʃ</td>
+	</tr>
+	<tr>
+		<th>完結</th>
+		<td>-III-ubɛt</td>
+		<td>-III-ubɛt</td>
+		<td>-III-ubtɛx</td>
+		<td>-III-ubtɒk</td>
+		<td>-III-ubtim</td>
+		<td>-III-ubtigʱ</td>
+		<td>-III-ubtit</td>
+		<td>-III-ubtiɾ</td>
+		<td>-III-ubtaʃ</td>
+	</tr>
+	<tr>
+		<th>未来</th>
+		<td>-I-ubss</td>
+		<td>-I-ubsɛf</td>
+		<td>-I-ubsɛx</td>
+		<td>-I-ubsɒk</td>
+		<td>-I-ubsim</td>
+		<td>-I-ubsigʱ</td>
+		<td>-I-ubsit</td>
+		<td>-I-ubsiɾ</td>
+		<td>-I-ubsaʃ</td>
+	</tr>
+</table>
+
+#### 命令法
+能動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-I-ɔzs</td>
+		<td>-I-ɔzɛf</td>
+		<td>-I-ɔzɛx</td>
+		<td>-I-ɔzɒk</td>
+		<td>-I-ɔzim</td>
+		<td>-I-ɔzigʱ</td>
+		<td>-I-ɔzit</td>
+		<td>-I-ɔziɾ</td>
+		<td>-I-ɔzaʃ</td>
+	</tr>
+</table>
+
+中動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-I-akɔzs</td>
+		<td>-I-akɔzɛf</td>
+		<td>-I-akɔzɛx</td>
+		<td>-I-akɔzɒk</td>
+		<td>-I-akɔzim</td>
+		<td>-I-akɔzigʱ</td>
+		<td>-I-akɔzit</td>
+		<td>-I-akɔziɾ</td>
+		<td>-I-akɔzaʃ</td>
+	</tr>
+</table>
+
+受動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-I-ubɔzs</td>
+		<td>-I-ubɔzɛf</td>
+		<td>-I-ubɔzɛx</td>
+		<td>-I-ubɔzɒk</td>
+		<td>-I-ubɔzim</td>
+		<td>-I-ubɔzigʱ</td>
+		<td>-I-ubɔzit</td>
+		<td>-I-ubɔziɾ</td>
+		<td>-I-ubɔzaʃ</td>
+	</tr>
+</table>
+
+#### 希求法
+能動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-I-ɛfs</td>
+		<td>-I-ɛfɛf</td>
+		<td>-I-ɛfɛx</td>
+		<td>-I-ɛfɒk</td>
+		<td>-I-ɛfim</td>
+		<td>-I-ɛfigʱ</td>
+		<td>-I-ɛfit</td>
+		<td>-I-ɛfiɾ</td>
+		<td>-I-ɛfaʃ</td>
+	</tr>
+</table>
+
+中動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-I-akɛfs</td>
+		<td>-I-akɛfɛf</td>
+		<td>-I-akɛfɛx</td>
+		<td>-I-akɛfɒk</td>
+		<td>-I-akɛfim</td>
+		<td>-I-akɛfigʱ</td>
+		<td>-I-akɛfit</td>
+		<td>-I-akɛfiɾ</td>
+		<td>-I-akɛfaʃ</td>
+	</tr>
+</table>
+
+受動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-I-ubɛfs</td>
+		<td>-I-ubɛfɛf</td>
+		<td>-I-ubɛfɛx</td>
+		<td>-I-ubɛfɒk</td>
+		<td>-I-ubɛfim</td>
+		<td>-I-ubɛfigʱ</td>
+		<td>-I-ubɛfit</td>
+		<td>-I-ubɛfiɾ</td>
+		<td>-I-ubɛfaʃ</td>
+	</tr>
+</table>
+
+
+#### 接続法
+能動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-III-tɛfs</td>
+		<td>-III-tɛfɛf</td>
+		<td>-III-tɛfɛx</td>
+		<td>-III-tɛfɒk</td>
+		<td>-III-tɛfim</td>
+		<td>-III-tɛfigʱ</td>
+		<td>-III-tɛfit</td>
+		<td>-III-tɛfiɾ</td>
+		<td>-III-tɛfaʃ</td>
+	</tr>
+</table>
+
+中動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-III-aktɛfs</td>
+		<td>-III-aktɛfɛf</td>
+		<td>-III-aktɛfɛx</td>
+		<td>-III-aktɛfɒk</td>
+		<td>-III-aktɛfim</td>
+		<td>-III-aktɛfigʱ</td>
+		<td>-III-aktɛfit</td>
+		<td>-III-aktɛfiɾ</td>
+		<td>-III-aktɛfaʃ</td>
+	</tr>
+</table>
+
+受動態
+<table>
+	<tr>
+		<th colspan="3">単数</th>
+		<th colspan="3">双数</th>
+		<th colspan="3">複数</th>
+	</tr>
+	<tr>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+		<th>1人称</th>
+		<th>2人称</th>
+		<th>3人称</th>
+	</tr>
+	<tr>
+		<td>-III-ubtɛfs</td>
+		<td>-III-ubtɛfɛf</td>
+		<td>-III-ubtɛfɛx</td>
+		<td>-III-ubtɛfɒk</td>
+		<td>-III-ubtɛfim</td>
+		<td>-III-ubtɛfigʱ</td>
+		<td>-III-ubtɛfit</td>
+		<td>-III-ubtɛfiɾ</td>
+		<td>-III-ubtɛfaʃ</td>
+	</tr>
+</table>
