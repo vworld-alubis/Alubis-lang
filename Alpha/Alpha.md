@@ -496,7 +496,7 @@ I・II・IIIは母音交替の階梯を表す。
 </table>
 
 ### 動詞
-動詞は4つの法(直説法・命令法・希求法・接続法)3つの態(能動態・中動態・受動態)と5つの相(無相・進行・完了・完結・未完了)、3つの数(単数・双数・複数)と人称に従い屈折する。
+動詞は4つの法(直説法・命令法・希求法・接続法)3つの態(能動態・中動態・受動態)と5つの相(無相・進行・完了・完結・未完了)、3つの数(単数・双数・複数)と人称(不定形を含む)に従い屈折する。
 ただし、相によって屈折する法は直接法のみ。
 
 #### 直接法
@@ -504,6 +504,7 @@ I・II・IIIは母音交替の階梯を表す。
 <table>
 	<tr>
 		<th></th>
+		<th rowspan="2">不定</th>
 		<th colspan="3">単数</th>
 		<th colspan="3">双数</th>
 		<th colspan="3">複数</th>
@@ -522,6 +523,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>無相</th>
+		<td>-I-ɛɾ</td>
 		<td>-I-s</td>
 		<td>-I-ɛf</td>
 		<td>-I-ɛx</td>
@@ -534,6 +536,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>進行</th>
+		<td>-II-ɛɾ</td>
 		<td>-II-s</td>
 		<td>-II-ɛf</td>
 		<td>-II-ɛx</td>
@@ -546,6 +549,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>完了</th>
+		<td>-III-ɛɾ</td>
 		<td>-III-s</td>
 		<td>-III-ɛf</td>
 		<td>-III-ɛx</td>
@@ -558,6 +562,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>完結</th>
+		<td>-III-tɛɾ</td>
 		<td>-III-ɛt</td>
 		<td>-III-ɛt</td>
 		<td>-III-tɛx</td>
@@ -570,6 +575,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>未完了</th>
+		<td>-I-sɛɾ</td>
 		<td>-I-ss</td>
 		<td>-I-sɛf</td>
 		<td>-I-sɛx</td>
@@ -586,6 +592,7 @@ I・II・IIIは母音交替の階梯を表す。
 <table>
 	<tr>
 		<th></th>
+		<th rowspan="2">不定</th>
 		<th colspan="3">単数</th>
 		<th colspan="3">双数</th>
 		<th colspan="3">複数</th>
@@ -604,6 +611,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>無相</th>
+		<td>-I-akɛɾ</td>
 		<td>-I-aks</td>
 		<td>-I-akɛf</td>
 		<td>-I-akɛx</td>
@@ -616,6 +624,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>進行</th>
+		<td>-II-akɛɾ</td>
 		<td>-II-aks</td>
 		<td>-II-akef</td>
 		<td>-II-akɛx</td>
@@ -628,6 +637,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>完了</th>
+		<td>-III-akɛɾ</td>
 		<td>-III-aks</td>
 		<td>-III-akɛf</td>
 		<td>-III-akɛx</td>
@@ -640,6 +650,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>完結</th>
+		<td>-III-aktɛɾ</td>
 		<td>-III-akɛt</td>
 		<td>-III-akɛt</td>
 		<td>-III-aktɛx</td>
@@ -652,6 +663,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>未完了</th>
+		<td>-I-aksɛɾ</td>
 		<td>-I-akss</td>
 		<td>-I-aksɛf</td>
 		<td>-I-aksɛx</td>
@@ -668,6 +680,7 @@ I・II・IIIは母音交替の階梯を表す。
 <table>
 	<tr>
 		<th></th>
+		<th rowspan="2">不定</th>
 		<th colspan="3">単数</th>
 		<th colspan="3">双数</th>
 		<th colspan="3">複数</th>
@@ -685,7 +698,8 @@ I・II・IIIは母音交替の階梯を表す。
 		<th>3人称</th>
 	</tr>
 	<tr>
-		<th>定頻</th>
+		<th>無相</th>
+		<td>-I-ubɛɾ</td>
 		<td>-I-ubs</td>
 		<td>-I-ubɛf</td>
 		<td>-I-ubɛx</td>
@@ -698,6 +712,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>進行</th>
+		<td>-II-ubɛɾ</td>
 		<td>-II-ubs</td>
 		<td>-II-ubɛf</td>
 		<td>-II-ubɛx</td>
@@ -710,6 +725,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>完了</th>
+		<td>-III-ubɛɾ</td>
 		<td>-III-ubs</td>
 		<td>-III-ubɛf</td>
 		<td>-III-ubɛx</td>
@@ -722,6 +738,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>完結</th>
+		<td>-III-ubtɛɾ</td>
 		<td>-III-ubɛt</td>
 		<td>-III-ubɛt</td>
 		<td>-III-ubtɛx</td>
@@ -734,6 +751,7 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>未来</th>
+		<td>-I-ubsɛɾ</td>
 		<td>-I-ubss</td>
 		<td>-I-ubsɛf</td>
 		<td>-I-ubsɛx</td>
@@ -1026,5 +1044,30 @@ I・II・IIIは母音交替の階梯を表す。
 		<td>-III-ubtɛfit</td>
 		<td>-III-ubtɛfiɾ</td>
 		<td>-III-ubtɛfaʃ</td>
+	</tr>
+</table>
+
+#### 派生名詞
+動詞からは3つの派生名詞(主格名詞・対格名詞・現象名詞)を、以下の接尾辞によって作ることができる。
+<table>
+	<tr>
+		<th></th>
+		<th>語幹がa/ɛ/i</th>
+		<th>語幹がɒ/o/u</th>
+	</tr>
+	<tr>
+		<th>主格名詞</th>
+		<td>-ɛgʱ</td>
+		<td>-ɔgʱ</td>
+	</tr>
+	<tr>
+		<th>対格名詞</th>
+		<td>-al</td>
+		<td>-ɒl</td>
+	</tr>
+	<tr>
+		<th>現象名詞</th>
+		<td>-ɛbh</td>
+		<td>-ɔbh</td>
 	</tr>
 </table>
