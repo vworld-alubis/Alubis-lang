@@ -495,6 +495,252 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 </table>
 
+### 形容詞
+名詞と同じように屈折する他、叙述形・限定形、原級・比較級・最上級による屈折がある。
+
+#### 原級
+<table>
+	<tr>
+		<th></th>
+		<th colspan="3">叙述形</th>
+		<th colspan="3">限定形</th>
+	</tr>
+	<tr>
+		<th class="non"></th>
+		<th>単数</th>
+		<th>双数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>双数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>単独</th>
+		<td>-I-</td>
+		<td>-I-ɔt</td>
+		<td>-I-ɛp</td>
+		<td>-I-iɾ</td>
+		<td>-I-ɔtiɾ</td>
+		<td>-I-ɛpiɾ</td>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td>-II-</td>
+		<td>-II-ɔt</td>
+		<td>-II-ɛp</td>
+		<td>-II-iɾ</td>
+		<td>-II-ɔtiɾ</td>
+		<td>-II-ɛpiɾ</td>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td>-III-</td>
+		<td>-III-ɔt</td>
+		<td>-III-ɛp</td>
+		<td>-III-iɾ</td>
+		<td>-III-ɔtiɾ</td>
+		<td>-III-ɛpiɾ</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>-III-s</td>
+		<td>-III-ɔts</td>
+		<td>-III-ɛps</td>
+		<td>-III-siɾ</td>
+		<td>-III-ɔtsiɾ</td>
+		<td>-III-ɛpsiɾ</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>-I-t</td>
+		<td>-I-ɔtt</td>
+		<td>-I-ɛpt</td>
+		<td>-I-tiɾ</td>
+		<td>-I-ɔttiɾ</td>
+		<td>-I-ɛptiɾ</td>
+	</tr>
+	<tr>
+		<th>具格</th>
+		<td>-III-d</td>
+		<td>-III-ɔtd</td>
+		<td>-III-ɛpd</td>
+		<td>-III-diɾ</td>
+		<td>-III-ɔtdiɾ</td>
+		<td>-III-ɛpdiɾ</td>
+	</tr>
+	<tr>
+		<th>処格</th>
+		<td>-III-iʃ</td>
+		<td>-III-ɔtiʃ</td>
+		<td>-III-ɛpiʃ</td>
+		<td>-III-iʃiɾ</td>
+		<td>-III-ɔtiʃiɾ</td>
+		<td>-III-ɛpiʃiɾ</td>
+	</tr>
+</table>
+
+#### 比較級
+<table>
+	<tr>
+		<th></th>
+		<th colspan="3">叙述形</th>
+		<th colspan="3">限定形</th>
+	</tr>
+	<tr>
+		<th class="non"></th>
+		<th>単数</th>
+		<th>双数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>双数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>単独</th>
+		<td>-I-ɛk</td>
+		<td>-I-ɔtɛk</td>
+		<td>-I-ɛpɛk</td>
+		<td>-I-ik</td>
+		<td>-I-ɔtik</td>
+		<td>-I-ɛpik</td>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td>-II-ɛk</td>
+		<td>-II-ɔtɛk</td>
+		<td>-II-ɛpɛk</td>
+		<td>-II-ik</td>
+		<td>-II-ɔtik</td>
+		<td>-II-ɛpik</td>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td>-III-ɛk</td>
+		<td>-III-ɔtɛk</td>
+		<td>-III-ɛpɛk</td>
+		<td>-III-ik</td>
+		<td>-III-ɔtik</td>
+		<td>-III-ɛpik</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>-III-sɛk</td>
+		<td>-III-ɔtsɛk</td>
+		<td>-III-ɛpsɛk</td>
+		<td>-III-sik</td>
+		<td>-III-ɔtsik</td>
+		<td>-III-ɛpsik</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>-I-tɛk</td>
+		<td>-I-ɔttɛk</td>
+		<td>-I-ɛptɛk</td>
+		<td>-I-tik</td>
+		<td>-I-ɔttik</td>
+		<td>-I-ɛptik</td>
+	</tr>
+	<tr>
+		<th>具格</th>
+		<td>-III-dɛk</td>
+		<td>-III-ɔtdɛk</td>
+		<td>-III-ɛpdɛk</td>
+		<td>-III-dik</td>
+		<td>-III-ɔtdik</td>
+		<td>-III-ɛpdik</td>
+	</tr>
+	<tr>
+		<th>処格</th>
+		<td>-III-iʃɛk</td>
+		<td>-III-ɔtiʃɛk</td>
+		<td>-III-ɛpiʃɛk</td>
+		<td>-III-iʃik</td>
+		<td>-III-ɔtiʃik</td>
+		<td>-III-ɛpiʃik</td>
+	</tr>
+</table>
+
+#### 最上級
+<table>
+	<tr>
+		<th></th>
+		<th colspan="3">叙述形</th>
+		<th colspan="3">限定形</th>
+	</tr>
+	<tr>
+		<th class="non"></th>
+		<th>単数</th>
+		<th>双数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>双数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>単独</th>
+		<td>-I-aɾh</td>
+		<td>-I-ɔtaɾh</td>
+		<td>-I-ɛpaɾh</td>
+		<td>-I-ɛɾh</td>
+		<td>-I-ɔtɛɾh</td>
+		<td>-I-ɛpɛɾh</td>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td>-II-aɾh</td>
+		<td>-II-ɔtaɾh</td>
+		<td>-II-ɛpaɾh</td>
+		<td>-II-ɛɾh</td>
+		<td>-II-ɔtɛɾh</td>
+		<td>-II-ɛpɛɾh</td>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td>-III-aɾh</td>
+		<td>-III-ɔtaɾh</td>
+		<td>-III-ɛpaɾh</td>
+		<td>-III-ɛɾh</td>
+		<td>-III-ɔtɛɾh</td>
+		<td>-III-ɛpɛɾh</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>-III-saɾh</td>
+		<td>-III-ɔtsaɾh</td>
+		<td>-III-ɛpsaɾh</td>
+		<td>-III-sɛɾh</td>
+		<td>-III-ɔtsɛɾh</td>
+		<td>-III-ɛpsɛɾh</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>-I-taɾh</td>
+		<td>-I-ɔttaɾh</td>
+		<td>-I-ɛptaɾh</td>
+		<td>-I-tɛɾh</td>
+		<td>-I-ɔttɛɾh</td>
+		<td>-I-ɛptɛɾh</td>
+	</tr>
+	<tr>
+		<th>具格</th>
+		<td>-III-daɾh</td>
+		<td>-III-ɔtdaɾh</td>
+		<td>-III-ɛpdaɾh</td>
+		<td>-III-dɛɾh</td>
+		<td>-III-ɔtdɛɾh</td>
+		<td>-III-ɛpdɛɾh</td>
+	</tr>
+	<tr>
+		<th>処格</th>
+		<td>-III-iʃaɾh</td>
+		<td>-III-ɔtiʃaɾh</td>
+		<td>-III-ɛpiʃaɾh</td>
+		<td>-III-iʃɛɾh</td>
+		<td>-III-ɔtiʃɛɾh</td>
+		<td>-III-ɛpiʃɛɾh</td>
+	</tr>
+</table>
+
 ### 動詞
 動詞は4つの法(直説法・命令法・希求法・接続法)3つの態(能動態・中動態・受動態)と5つの相(無相・進行・完了・完結・未完了)、3つの数(単数・双数・複数)と人称(不定形を含む)に従い屈折する。
 ただし、相によって屈折する法は直接法のみ。
