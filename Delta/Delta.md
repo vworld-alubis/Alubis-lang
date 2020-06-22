@@ -29,7 +29,7 @@
    <td></td>
    <td></td>
    <td>k g</td>
-   <td></td>
+   <td>ʔ</td>
  </tr>
  <tr>
    <th>鼻</th>
@@ -97,7 +97,8 @@
    <td></td>
  </tr>
 </table>
-#### 短母音
+
+#### 長母音
 <table>
  <tr>
    <th></th>
