@@ -83,7 +83,7 @@
 </table>
 <table>
 	<th>同時調音</th>
- <td>w</td>
+	<td>w</td>
 </table>
 
 #### 子音クラスタ
