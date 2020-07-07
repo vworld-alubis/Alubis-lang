@@ -477,13 +477,13 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>処格</th>
-		<td>bjiʃ</td>
+		<td>bjyʃ</td>
 		<td>bjytiʃ</td>
 		<td>bjypiʃ</td>
-		<td>wjiʃ</td>
+		<td>wjyʃ</td>
 		<td>wjytiʃ</td>
 		<td>wjypiʃ</td>
-		<td>gjiʃ</td>
+		<td>gjyʃ</td>
 		<td>gjytiʃ</td>
 		<td>gjypiʃ</td>
 		<td>ixjiʃ</td>
