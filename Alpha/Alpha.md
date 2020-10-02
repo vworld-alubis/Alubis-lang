@@ -677,66 +677,66 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>原格</th>
-		<td>-I-aɾh</td>
-		<td>-I-ɔtaɾh</td>
-		<td>-I-ɛpaɾh</td>
-		<td>-I-ɛɾh</td>
-		<td>-I-ɔtɛɾh</td>
-		<td>-I-ɛpɛɾh</td>
+		<td>-I-aɾx</td>
+		<td>-I-ɔtaɾx</td>
+		<td>-I-ɛpaɾx</td>
+		<td>-I-ɛɾx</td>
+		<td>-I-ɔtɛɾx</td>
+		<td>-I-ɛpɛɾx</td>
 	</tr>
 	<tr>
 		<th>主格</th>
-		<td>-II-aɾh</td>
-		<td>-II-ɔtaɾh</td>
-		<td>-II-ɛpaɾh</td>
-		<td>-II-ɛɾh</td>
-		<td>-II-ɔtɛɾh</td>
-		<td>-II-ɛpɛɾh</td>
+		<td>-II-aɾx</td>
+		<td>-II-ɔtaɾx</td>
+		<td>-II-ɛpaɾx</td>
+		<td>-II-ɛɾx</td>
+		<td>-II-ɔtɛɾx</td>
+		<td>-II-ɛpɛɾx</td>
 	</tr>
 	<tr>
 		<th>対格</th>
-		<td>-III-aɾh</td>
-		<td>-III-ɔtaɾh</td>
-		<td>-III-ɛpaɾh</td>
-		<td>-III-ɛɾh</td>
-		<td>-III-ɔtɛɾh</td>
-		<td>-III-ɛpɛɾh</td>
+		<td>-III-aɾx</td>
+		<td>-III-ɔtaɾx</td>
+		<td>-III-ɛpaɾx</td>
+		<td>-III-ɛɾx</td>
+		<td>-III-ɔtɛɾx</td>
+		<td>-III-ɛpɛɾx</td>
 	</tr>
 	<tr>
 		<th>与格</th>
-		<td>-III-saɾh</td>
-		<td>-III-ɔtsaɾh</td>
-		<td>-III-ɛpsaɾh</td>
-		<td>-III-sɛɾh</td>
-		<td>-III-ɔtsɛɾh</td>
-		<td>-III-ɛpsɛɾh</td>
+		<td>-III-saɾx</td>
+		<td>-III-ɔtsaɾx</td>
+		<td>-III-ɛpsaɾx</td>
+		<td>-III-sɛɾx</td>
+		<td>-III-ɔtsɛɾx</td>
+		<td>-III-ɛpsɛɾx</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
-		<td>-I-taɾh</td>
-		<td>-I-ɔttaɾh</td>
-		<td>-I-ɛptaɾh</td>
-		<td>-I-tɛɾh</td>
-		<td>-I-ɔttɛɾh</td>
-		<td>-I-ɛptɛɾh</td>
+		<td>-I-taɾx</td>
+		<td>-I-ɔttaɾx</td>
+		<td>-I-ɛptaɾx</td>
+		<td>-I-tɛɾx</td>
+		<td>-I-ɔttɛɾx</td>
+		<td>-I-ɛptɛɾx</td>
 	</tr>
 	<tr>
 		<th>具格</th>
-		<td>-III-daɾh</td>
-		<td>-III-ɔtdaɾh</td>
-		<td>-III-ɛpdaɾh</td>
-		<td>-III-dɛɾh</td>
-		<td>-III-ɔtdɛɾh</td>
-		<td>-III-ɛpdɛɾh</td>
+		<td>-III-daɾx</td>
+		<td>-III-ɔtdaɾx</td>
+		<td>-III-ɛpdaɾx</td>
+		<td>-III-dɛɾx</td>
+		<td>-III-ɔtdɛɾx</td>
+		<td>-III-ɛpdɛɾx</td>
 	</tr>
 	<tr>
 		<th>処格</th>
-		<td>-III-iʃaɾh</td>
-		<td>-III-ɔtiʃaɾh</td>
-		<td>-III-ɛpiʃaɾh</td>
-		<td>-III-iʃɛɾh</td>
-		<td>-III-ɔtiʃɛɾh</td>
-		<td>-III-ɛpiʃɛɾh</td>
+		<td>-III-iʃaɾx</td>
+		<td>-III-ɔtiʃaɾx</td>
+		<td>-III-ɛpiʃaɾx</td>
+		<td>-III-iʃɛɾx</td>
+		<td>-III-ɔtiʃɛɾx</td>
+		<td>-III-ɛpiʃɛɾx</td>
 	</tr>
 </table>
 
