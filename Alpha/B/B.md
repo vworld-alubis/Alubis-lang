@@ -95,7 +95,7 @@
 	</tr>
 	<tr>
 		<th>半広</th>
-		<td>e[ɛ]</td>
+		<td>e[e(~e̞)]</td>
 		<td>o[ɔ]</td>
 	</tr>
 	<tr>
@@ -120,11 +120,11 @@
 	</tr>
 	<tr>
 		<td>a</td>
-		<td>ɛ</td>
+		<td>e</td>
 		<td>iː</td>
 	</tr>
 	<tr>
-		<td>ɛ</td>
+		<td>e</td>
 		<td>iː</td>
 		<td>u</td>
 	</tr>
