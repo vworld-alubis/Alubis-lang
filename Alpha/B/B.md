@@ -19,19 +19,19 @@
 	</tr>
 	<tr>
 		<th>破裂</th>
-		<td>p[p] b[b]</td>
+		<td>p b</td>
 		<td></td>
-		<td>t[t] d[d]</td>
+		<td>t d</td>
 		<td></td>
 		<td></td>
-		<td>k[k] g[g]</td>
+		<td>k g</td>
 		<td></td>
 	</tr>
 	<tr>
 		<th>鼻</th>
-		<td>m[m]</td>
+		<td>m</td>
 		<td></td>
-		<td>n[n]</td>
+		<td>n</td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -41,7 +41,7 @@
 		<th>はじき</th>
 		<td></td>
 		<td></td>
-		<td>r[ɾ]</td>
+		<td>ɾ</td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -50,18 +50,18 @@
 	<tr>
 		<th>摩擦</th>
 		<td></td>
-		<td>f[f]</td>
-		<td>s[s] (s[z])</td>
-		<td>c[ʃ] (c[ʒ]) j[ʒ]</td>
+		<td>f</td>
+		<td>s z</td>
+		<td>ʃ ʒ</td>
 		<td></td>
-		<td>h[x]</td>
-		<td>(f[h])</td>
+		<td>x</td>
+		<td>h</td>
 	</tr>
 	<tr>
 		<th>側面</th>
 		<td></td>
 		<td></td>
-		<td>l[l]</td>
+		<td>l</td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -70,7 +70,7 @@
 </table>
 <table>
 	<th>同時調音</th>
-	<td>w[w]</td>
+	<td>w</td>
 </table>
 括弧内は条件異音。
 
@@ -86,21 +86,24 @@
 	<tr>
 		<th></th>
 		<th>前舌(非円唇)</th>
+		<th>中舌(非円唇)</th>
 		<th>後舌(円唇)</th>
 	</tr>
 	<tr>
 		<th>狭</th>
-		<td>i[i]</td>
-		<td>u[u]</td>
+		<td>i</td>
+		<td></td>
+		<td>u</td>
 	</tr>
 	<tr>
-		<th>半広</th>
-		<td>e[e(~e̞)]</td>
-		<td>o[ɔ]</td>
+		<th>半広(中央)</th>
+		<td>ɛ</td>
+		<td>ə</td>
+		<td>ɔ</td>
 	</tr>
 	<tr>
 		<th>広</th>
-		<td colspan="2">a[a]</td>
+		<td colspan="3">a</td>
 	</tr>
 </table>
 
@@ -120,23 +123,23 @@
 	</tr>
 	<tr>
 		<td>a</td>
-		<td>e</td>
-		<td>iː</td>
-	</tr>
-	<tr>
-		<td>e</td>
-		<td>iː</td>
-		<td>u</td>
-	</tr>
-	<tr>
-		<td>iː</td>
-		<td>u</td>
+		<td>ɛ</td>
 		<td>i</td>
 	</tr>
 	<tr>
+		<td>ɛ</td>
+		<td>i</td>
+		<td>u</td>
+	</tr>
+	<tr>
+		<td>ɔ</td>
+		<td>ə</td>
+		<td>ɛ</td>
+	</tr>
+	<tr>
 		<td>u</td>
 		<td>i</td>
-		<td>iː</td>
+		<td>i</td>
 	</tr>
 </table>
 
@@ -146,3 +149,190 @@
 語順はSOMV・AN・後置詞。 屈折語的特徴が強く、時制・格などを母音交替による屈折で表すが、祖語に比べると変化数は減った。
 
 ### 名詞
+<table>
+	<tr>
+		<th></th>
+		<th>単数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td>-II-ɔs</td>
+		<td>-II-ɛpɔs</td>
+	</tr>
+	<tr>
+		<th>題格</th>
+		<td>-I-i</td>
+		<td>-I-ɛpi</td>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td>-III-</td>
+		<td>-III-ɛ</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>-III-s</td>
+		<td>-III-ɛss</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>-I-</td>
+    		<td>-I-ɛu</td>
+	</tr>
+</table>
+
+### 代名詞
+
+#### 人称代名詞
+<table>
+	<tr>
+		<th></th>
+		<th colspan="2">一人称</th>
+		<th colspan="2">二人称</th>
+		<th colspan="2">三人称(有生)</th>
+	</tr>
+	<tr>
+		<th class="non"></th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td>alɛ</td>
+		<td>mɛɾɔs</td>
+		<td>ɛhɔs</td>
+		<td>hukɔs</td>
+	  	<td>lidɔs</td>
+		<td>tudɔs</td>
+	</tr>
+	<tr>
+		<th>題格</th>
+		<td>ali</td>
+		<td>maɾi</td>
+		<td>ahi</td>
+		<td>hiki</td>
+		<td>ludi</td>
+		<td>tidi</td>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td>ali</td>
+		<td>mɾi</td>
+		<td>if</td>
+		<td>hi</td>
+		<td>li</td>
+		<td>ti</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>alis</td>
+		<td>miɾs</td>
+		<td>ifs</td>
+		<td>hiks</td>
+		<td>lidz</td>
+		<td>tidz</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>al</td>
+		<td>mɾa</td>
+		<td>af</td>
+		<td>hi</td>
+		<td>lu</td>
+		<td>ti</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th></th>
+		<th colspan="2">近称(これ)</th>
+		<th colspan="2">中称(それ)</th>
+		<th colspan="2">遠称(あれ)</th>
+		<th colspan="2">事象(こと)</th>
+		<th colspan="3">疑問(なに)</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>無生</th>
+		<th>有生</th>
+		<th>様子</th>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td colspan="2">biu</td>
+		<td colspan="2">wiu</td>
+		<td colspan="2">giu</td>
+		<td>ɛiː</td>
+		<td>ɛiɛ</td>
+		<td>iliː</td>
+		<td>tiliː</td>
+		<td>iliu</td>
+	</tr>
+	<tr>
+		<th>題格</th>
+		<td>biː</td>
+		<td>biɛpi</td>
+		<td>wiː</td>
+		<td>wiɛpi</td>
+		<td>giː</td>
+		<td>giɛpi</td>
+		<td>aiː</td>
+		<td>aiɛpi</td>
+		<td>ɛliː</td>
+		<td>tuliː</td>
+		<td>ɛliubi</td>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td colspan="2">biː</td>
+		<td colspan="2">wiː</td>
+		<td colspan="2">giː</td>
+		<td>iː</td>
+		<td>iːɛ</td>
+		<td>uliː</td>
+		<td>tiliː</td>
+		<td>uliu</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>biːs</td>
+		<td>biːsɛ</td>
+		<td>wiːs</td>
+		<td>wiːsɛ</td>
+		<td>giːs</td>
+		<td>giːsɛ</td>
+		<td>iːs</td>
+		<td>iːsɛ</td>
+		<td>uliːs</td>
+		<td>tiliːs</td>
+		<td>uliubz</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>biː</td>
+		<td>biɛu</td>
+		<td>wiː</td>
+		<td>wiɛu</td>
+		<td>giː</td>
+		<td>giɛu</td>
+		<td>aiː</td>
+		<td>aiɛu</td>
+		<td>ɛliː</td>
+		<td>tuliː</td>
+		<td>ɛliu</td>
+	</tr>
+</table>
