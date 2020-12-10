@@ -368,129 +368,129 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>原格</th>
-		<td>bji</td>
-		<td>bjɔt</td>
-		<td>bjɛp</td>
-		<td>wji</td>
-		<td>wjɔt</td>
-		<td>wjɛp</td>
-		<td>gji</td>
-		<td>gjɔt</td>
-		<td>gjɛp</td>
-		<td>axji</td>
-		<td>axjɔt</td>
-		<td>axjɛp</td>
-		<td>ɛlji</td>
-		<td>tulji</td>
-		<td>ɛljɒb</td>
+		<td>bʲi</td>
+		<td>bʲɔt</td>
+		<td>bʲɛp</td>
+		<td>wʲi</td>
+		<td>wʲɔt</td>
+		<td>wʲɛp</td>
+		<td>gʲi</td>
+		<td>gʲɔt</td>
+		<td>gʲɛp</td>
+		<td>axʲi</td>
+		<td>axʲɔt</td>
+		<td>axʲɛp</td>
+		<td>ɛlʲi</td>
+		<td>tulʲi</td>
+		<td>ɛlʲɒb</td>
 	</tr>
 	<tr>
 		<th>主格</th>
-		<td>bju</td>
-		<td>bjut</td>
-		<td>bjup</td>
-		<td>wju</td>
-		<td>wjut</td>
-		<td>wjup</td>
-		<td>gju</td>
-		<td>gjut</td>
-		<td>gjup</td>
-		<td>ɛxji</td>
-		<td>ɛxjɔt</td>
-		<td>ɛxjɛp</td>
-		<td>ilji</td>
-		<td>tylji</td>
-		<td>iljɒb</td>
+		<td>bʲu</td>
+		<td>bʲut</td>
+		<td>bʲup</td>
+		<td>wʲu</td>
+		<td>wʲut</td>
+		<td>wʲup</td>
+		<td>gʲu</td>
+		<td>gʲut</td>
+		<td>gʲup</td>
+		<td>ɛxʲi</td>
+		<td>ɛxʲɔt</td>
+		<td>ɛxʲɛp</td>
+		<td>ilʲi</td>
+		<td>tylʲi</td>
+		<td>ilʲɒb</td>
 	</tr>
 	<tr>
 		<th>対格</th>
-		<td>bjy</td>
-		<td>bjyt</td>
-		<td>bjyp</td>
-		<td>wjy</td>
-		<td>wjyt</td>
-		<td>wjyp</td>
-		<td>gjy</td>
-		<td>gjyt</td>
-		<td>gjyp</td>
-		<td>ixji</td>
-		<td>ixjɔt</td>
-		<td>ixjɛp</td>
-		<td>ulji</td>
-		<td>tilji</td>
-		<td>uljɒb</td>
+		<td>bʲy</td>
+		<td>bʲyt</td>
+		<td>bʲyp</td>
+		<td>wʲy</td>
+		<td>wʲyt</td>
+		<td>wʲyp</td>
+		<td>gʲy</td>
+		<td>gʲyt</td>
+		<td>gʲyp</td>
+		<td>ixʲi</td>
+		<td>ixʲɔt</td>
+		<td>ixʲɛp</td>
+		<td>ulʲi</td>
+		<td>tilʲi</td>
+		<td>ulʲɒb</td>
 	</tr>
 	<tr>
 		<th>与格</th>
-		<td>bjys</td>
-		<td>bjysɔt</td>
-		<td>bjysɛp</td>
-		<td>wjys</td>
-		<td>wjysɔt</td>
-		<td>wjysɛp</td>
-		<td>gjys</td>
-		<td>gjysɔt</td>
-		<td>gjysɛp</td>
-		<td>ixjis</td>
-		<td>ixjsɔt</td>
-		<td>ixjsɛp</td>
-		<td>uljis</td>
-		<td>tiljis</td>
-		<td>uljɒbs</td>
+		<td>bʲys</td>
+		<td>bʲysɔt</td>
+		<td>bʲysɛp</td>
+		<td>wʲys</td>
+		<td>wʲysɔt</td>
+		<td>wʲysɛp</td>
+		<td>gʲys</td>
+		<td>gʲysɔt</td>
+		<td>gʲysɛp</td>
+		<td>ixʲis</td>
+		<td>ixʲsɔt</td>
+		<td>ixʲsɛp</td>
+		<td>ulʲis</td>
+		<td>tilʲis</td>
+		<td>ulʲɒbs</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
-		<td>bjit</td>
-		<td>bjɔtt</td>
-		<td>bjɛpt</td>
-		<td>wjit</td>
-		<td>wjɔtt</td>
-		<td>wjɛpt</td>
-		<td>gjit</td>
-		<td>gjɔtt</td>
-		<td>gjɛpt</td>
-		<td>axjit</td>
-		<td>axjɔtt</td>
-		<td>axjɛpt</td>
-		<td>ɛljit</td>
-		<td>tuljit</td>
-		<td>ɛlyɒbt</td>
+		<td>bʲit</td>
+		<td>bʲɔtt</td>
+		<td>bʲɛpt</td>
+		<td>wʲit</td>
+		<td>wʲɔtt</td>
+		<td>wʲɛpt</td>
+		<td>gʲit</td>
+		<td>gʲɔtt</td>
+		<td>gʲɛpt</td>
+		<td>axʲit</td>
+		<td>axʲɔtt</td>
+		<td>axʲɛpt</td>
+		<td>ɛlʲit</td>
+		<td>tulʲit</td>
+		<td>ɛlʲɒbt</td>
 	</tr>
 	<tr>
 		<th>具格</th>
-		<td>bjydʱ</td>
-		<td>bjytdʱ</td>
-		<td>bjypdʱ</td>
-		<td>wjydʱ</td>
-		<td>wjytdʱ</td>
-		<td>wjypdʱ</td>
-		<td>gjydʱ</td>
-		<td>gjytdʱ</td>
-		<td>gjypdʱ</td>
-		<td>ixjidʱ</td>
-		<td>ixjɔtdʱ</td>
-		<td>ixjɛpdʱ</td>
-		<td>uljidʱ</td>
-		<td>tiljidʱ</td>
-		<td>uljɒbdʱ</td>
+		<td>bʲydʱ</td>
+		<td>bʲytdʱ</td>
+		<td>bʲypdʱ</td>
+		<td>wʲydʱ</td>
+		<td>wʲytdʱ</td>
+		<td>wʲypdʱ</td>
+		<td>gʲydʱ</td>
+		<td>gʲytdʱ</td>
+		<td>gʲypdʱ</td>
+		<td>ixʲidʱ</td>
+		<td>ixʲɔtdʱ</td>
+		<td>ixʲɛpdʱ</td>
+		<td>ulʲidʱ</td>
+		<td>tilʲidʱ</td>
+		<td>ulʲɒbdʱ</td>
 	</tr>
 	<tr>
 		<th>処格</th>
-		<td>bjyʃ</td>
-		<td>bjytiʃ</td>
-		<td>bjypiʃ</td>
-		<td>wjyʃ</td>
-		<td>wjytiʃ</td>
-		<td>wjypiʃ</td>
-		<td>gjyʃ</td>
-		<td>gjytiʃ</td>
-		<td>gjypiʃ</td>
-		<td>ixjiʃ</td>
-		<td>ixjɔtiʃ</td>
-		<td>ixjɛpiʃ</td>
-		<td>uljiʃ</td>
+		<td>bʲyʃ</td>
+		<td>bʲytiʃ</td>
+		<td>bʲypiʃ</td>
+		<td>wʲyʃ</td>
+		<td>wʲytiʃ</td>
+		<td>wʲypiʃ</td>
+		<td>gʲyʃ</td>
+		<td>gʲytiʃ</td>
+		<td>gʲypiʃ</td>
+		<td>ixʲiʃ</td>
+		<td>ixʲɔtiʃ</td>
+		<td>ixʲɛpiʃ</td>
+		<td>ulʲiʃ</td>
 		<td>-</td>
-		<td>uljɒbiʃ</td>
+		<td>ulʲɒbiʃ</td>
 	</tr>
 </table>
 
