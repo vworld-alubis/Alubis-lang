@@ -1313,8 +1313,8 @@ I・II・IIIは母音交替の階梯を表す。
 	</tr>
 	<tr>
 		<th>現象名詞</th>
-		<td>-ɛbh</td>
-		<td>-ɔbh</td>
+		<td>-ɛb</td>
+		<td>-ɔbx</td>
 	</tr>
 </table>
 
