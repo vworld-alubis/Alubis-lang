@@ -256,7 +256,6 @@ Iの階梯がiの変化はuの変化に合流している。
 		<th colspan="2">中称(それ)</th>
 		<th colspan="2">遠称(あれ)</th>
 		<th colspan="2">事象(こと)</th>
-		<th colspan="3">疑問(なに)</th>
 	</tr>
 	<tr>
 		<th></th>
@@ -268,9 +267,6 @@ Iの階梯がiの変化はuの変化に合流している。
 		<th>複数</th>
 		<th>単数</th>
 		<th>複数</th>
-		<th>無生</th>
-		<th>有生</th>
-		<th>様子</th>
 	</tr>
 	<tr>
 		<th>主格</th>
@@ -279,9 +275,6 @@ Iの階梯がiの変化はuの変化に合流している。
 		<td colspan="2">giu</td>
 		<td>ɛiː</td>
 		<td>ɛiɛ</td>
-		<td>iliː</td>
-		<td>tiliː</td>
-		<td>iliu</td>
 	</tr>
 	<tr>
 		<th>題格</th>
@@ -293,9 +286,6 @@ Iの階梯がiの変化はuの変化に合流している。
 		<td>giɛpi</td>
 		<td>aiː</td>
 		<td>aiɛpi</td>
-		<td>ɛliː</td>
-		<td>tuliː</td>
-		<td>ɛliubi</td>
 	</tr>
 	<tr>
 		<th>対格</th>
@@ -304,9 +294,6 @@ Iの階梯がiの変化はuの変化に合流している。
 		<td colspan="2">giː</td>
 		<td>iː</td>
 		<td>iːɛ</td>
-		<td>uliː</td>
-		<td>tiliː</td>
-		<td>uliu</td>
 	</tr>
 	<tr>
 		<th>与格</th>
@@ -318,9 +305,6 @@ Iの階梯がiの変化はuの変化に合流している。
 		<td>giːsɛ</td>
 		<td>iːs</td>
 		<td>iːsɛ</td>
-		<td>uliːs</td>
-		<td>tiliːs</td>
-		<td>uliubz</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
@@ -332,8 +316,5 @@ Iの階梯がiの変化はuの変化に合流している。
 		<td>giɛu</td>
 		<td>aiː</td>
 		<td>aiɛu</td>
-		<td>ɛliː</td>
-		<td>tuliː</td>
-		<td>ɛliu</td>
 	</tr>
 </table>
