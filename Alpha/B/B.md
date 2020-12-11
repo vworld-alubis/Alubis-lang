@@ -318,3 +318,57 @@ Iの階梯がiの変化はuの変化に合流している。
 		<td>aiɛu</td>
 	</tr>
 </table>
+
+### 形容詞
+名詞と同じように屈折する他、叙述形・限定形、原級・比較級・最上級による屈折がある。
+
+#### 原級
+<table>
+	<tr>
+		<th></th>
+		<th colspan="2">叙述形</th>
+		<th colspan="2">限定形</th>
+	</tr>
+	<tr>
+		<th class="non"></th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td>-II-</td>
+		<td>-II-ɛ</td>
+		<td>-II-ɾi</td>
+		<td>-II-ɛpɾi</td>
+	</tr>
+	<tr>
+		<th>題格</th>
+		<td>-I-i</td>
+		<td>-I-ɛpi</td>
+		<td>-I-ɾi</td>
+		<td>-I-ɛpɾi</td>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td>-III-</td>
+		<td>-III-ɛ</td>
+		<td>-III-ɾi</td>
+		<td>-III-ɛpɾi</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>-III-s</td>
+		<td>-III-ɛss</td>
+		<td>-III-sɾi</td>
+		<td>-III-ɛssɾi</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>-I-</td>
+		<td>-I-ɛu</td>
+		<td>-I-tɾi</td>
+		<td>-I-ɛutɾi</td>
+	</tr>
+</table>
