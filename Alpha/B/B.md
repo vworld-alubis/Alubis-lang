@@ -86,24 +86,21 @@
 	<tr>
 		<th></th>
 		<th>前舌(非円唇)</th>
-		<th>中舌(非円唇)</th>
 		<th>後舌(円唇)</th>
 	</tr>
 	<tr>
 		<th>狭</th>
 		<td>i</td>
-		<td></td>
 		<td>u</td>
 	</tr>
 	<tr>
-		<th>半広(中央)</th>
+		<th>半広(～中央)</th>
 		<td>ɛ</td>
-		<td>ə</td>
 		<td>ɔ</td>
 	</tr>
 	<tr>
 		<th>広</th>
-		<td colspan="3">a</td>
+		<td colspan="2">a</td>
 	</tr>
 </table>
 
@@ -370,5 +367,99 @@ Iの階梯がiの変化はuの変化に合流している。
 		<td>-I-ɛu</td>
 		<td>-I-tɾi</td>
 		<td>-I-ɛutɾi</td>
+	</tr>
+</table>
+
+#### 比較級
+<table>
+	<tr>
+		<th></th>
+		<th colspan="2">叙述形</th>
+		<th colspan="2">限定形</th>
+	</tr>
+	<tr>
+		<th class="non"></th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td rowspan="2">-II-ɛ</td>
+		<td rowspan="2">-II-ɛpɛ</td>
+		<td rowspan="2">-II-i</td>
+		<td rowspan="2">-II-ɛpi</td>
+	</tr>
+	<tr>
+		<th>題格</th>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td>-III-ɛ</td>
+		<td>-III-ɛpɛ</td>
+		<td>-III-i</td>
+		<td>-III-ɛpi</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>-III-sɛ</td>
+		<td>-III-ɛssɛ</td>
+		<td>-III-si</td>
+		<td>-III-ɛssi</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>-I-tɛ</td>
+		<td>-I-ɛutɛ</td>
+		<td>-I-ti</td>
+		<td>-I-ɛuti</td>
+	</tr>
+</table>
+
+#### 最上級
+<table>
+	<tr>
+		<th></th>
+		<th colspan="2">叙述形</th>
+		<th colspan="2">限定形</th>
+	</tr>
+	<tr>
+		<th class="non"></th>
+		<th>単数</th>
+		<th>複数</th>
+		<th>単数</th>
+		<th>複数</th>
+	</tr>
+	<tr>
+		<th>主格</th>
+		<td rowspan="2">-II-ɾa</td>
+		<td rowspan="2">-II-ɛpɾa</td>
+		<td rowspan="2">-II-ɾɛ</td>
+		<td rowspan="2">-II-ɛpɾɛ</td>
+	</tr>
+	<tr>
+		<th>題格</th>
+	</tr>
+	<tr>
+		<th>対格</th>
+		<td>-III-ɾa</td>
+		<td>-III-ɛpɾa</td>
+		<td>-III-ɾɛ</td>
+		<td>-III-ɛpɾɛ</td>
+	</tr>
+	<tr>
+		<th>与格</th>
+		<td>-III-sɾa</td>
+		<td>-III-ɛssɾa</td>
+		<td>-III-sɾɛ</td>
+		<td>-III-ɛssɾɛ</td>
+	</tr>
+	<tr>
+		<th>奪格</th>
+		<td>-I-tɾa</td>
+		<td>-I-ɛutɾa</td>
+		<td>-I-tɾɛ</td>
+		<td>-I-ɛutɾɛ</td>
 	</tr>
 </table>
