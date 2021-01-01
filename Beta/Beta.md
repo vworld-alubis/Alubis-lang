@@ -1,6 +1,64 @@
 # ベータ祖語(仮)
 文献が残っているタイプの古代語。
 
+## 制作上使用するもの
+### 音素乱数テーブル
+<table>
+  <tr>
+    <th></th>
+    <th colspan="7">頭子音</th>
+    <th colspan="3">末子音</th>
+  </tr>
+  <tr>
+    <th>neutral</th>
+    <td>x</td>
+    <td>h</td>
+    <td>m</td>
+    <td>n</td>
+    <td>ɳ</td>
+    <td>l</td>
+    <td>j</td>
+    <td>m</td>
+    <td>n</td>
+    <td>r</td>
+  </tr>
+  <tr>
+    <th>minus</th>
+    <td>b</td>
+    <td>d</td>
+    <td>g</td>
+    <td>gʷ</td>
+    <td>β</td>
+    <td>g</td>
+    <td>r</td>
+    <td>b</td>
+    <td>d</td>
+    <td>g</td>
+  </tr>
+  <tr>
+    <th>plus</th>
+    <td>p</td>
+    <td>t</td>
+    <td>k</td>
+    <td>kʷ</td>
+    <td>ɸ</td>
+    <td>s</td>
+    <td>χ</td>
+    <td colspan="3"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>母音</th>
+    <td>a</th>
+    <td>e</td>
+    <td>i</td>
+    <td>o</td>
+    <td>u</td>
+    <td>ə</td>
+  </tr>
+</table>
+
 ## 音韻
 ### 子音
 <table>
@@ -110,4 +168,52 @@ VCCVという語がある場合、VCとCVが別音節となる。
 語順はそこまで厳しくなく、話題となるものが前に出てくることもある。
 
 ### 名詞
-名詞は、有生・無生の名詞クラスタと、6つの格(絶対格・能格・具格・欠格・与格・奪格)によって接尾辞で曲用する。
+名詞は、有生・無生の名詞クラスタと、7つの格(絶対格・能格・与格・具格・欠格・向格・奪格)、定性・不定性によって接尾辞で曲用する。
+<table>
+  <tr>
+    <th colspan="7">有生</th>
+    <th colspan="7">無生</th>
+  </tr>
+  <tr>
+    <th>絶対格</th>
+    <th>能格</th>
+    <th>与格</th>
+    <th>具格</th>
+    <th>欠格</th>
+    <th>向格</th>
+    <th>奪格</th>
+    <th>絶対格</th>
+    <th>能格</th>
+    <th>与格</th>
+    <th>具格</th>
+    <th>欠格</th>
+    <th>向格</th>
+    <th>奪格</th>
+  </tr>
+  <tr>
+    <td>-a</td> <!--vowel-->
+    <td>-ɸi</td> <!--plus-->
+    <td>-u</td> <!--vowel-->
+    <td>-pu</td> <!--plus-->
+    <td>-gʷa</td> <!--minus-->
+    <td>-χə</td> <!--plus-->
+    <td>-ga</td> <!--minus-->
+    <td>-e</td> <!--vowel-->
+    <td>なし</td>
+    <td>-mi</td> <!--neutral-->
+    <td>-so</td> <!--plus-->
+    <td>-βə</td> <!--minus-->
+    <td>-ə</td> <!--vowel-->
+    <td>-bi</td> <!--minus-->
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>定</th>
+    <th>不定</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
