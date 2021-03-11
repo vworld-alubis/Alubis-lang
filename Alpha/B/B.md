@@ -9,28 +9,29 @@
 ### 子音
 <table>
  <tr>
-  <th></th>
+  		<th></th>
 		<th>両唇</th>
 		<th>唇歯</th>
+	 	<th>歯</th>
 		<th>歯茎</th>
 		<th>後部歯茎</th>
 		<th>硬口蓋</th>
 		<th>軟口蓋</th>
-		<th>声門</th>
 	</tr>
 	<tr>
 		<th>破裂</th>
 		<td>p b</td>
 		<td></td>
+		<td></td>
 		<td>t d</td>
 		<td></td>
 		<td></td>
 		<td>k g</td>
-		<td></td>
 	</tr>
 	<tr>
 		<th>鼻</th>
 		<td>m</td>
+		<td></td>
 		<td></td>
 		<td>n</td>
 		<td></td>
@@ -42,6 +43,7 @@
 		<th>はじき</th>
 		<td></td>
 		<td></td>
+		<td></td>
 		<td>ɾ</td>
 		<td></td>
 		<td></td>
@@ -51,15 +53,28 @@
 	<tr>
 		<th>摩擦</th>
 		<td></td>
-		<td>f</td>
-		<td>s z</td>
+		<td>f v</td>
+		<td>θ</td>
+		<td>s</td>
 		<td>ʃ ʒ</td>
-		<td></td>
+		<td>(ç)</td>
 		<td>x</td>
-		<td>h</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>破擦</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>(tʃ) (dʒ)</td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>側面</th>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td>l</td>
