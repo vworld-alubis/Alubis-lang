@@ -37,7 +37,6 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<th>はじき</th>
@@ -45,7 +44,6 @@
 		<td></td>
 		<td></td>
 		<td>ɾ</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -59,7 +57,6 @@
 		<td>ʃ ʒ</td>
 		<td>(ç)</td>
 		<td>x</td>
-		<td></td>
 	</tr>
 	<tr>
 		<th>破擦</th>
@@ -70,7 +67,6 @@
 		<td>(tʃ) (dʒ)</td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<th>側面</th>
@@ -78,7 +74,6 @@
 		<td></td>
 		<td></td>
 		<td>l</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -102,21 +97,38 @@
 	<tr>
 		<th></th>
 		<th>前舌(非円唇)</th>
+		<th>前舌め</th>
 		<th>後舌(円唇)</th>
 	</tr>
 	<tr>
 		<th>狭</th>
 		<td>i</td>
+		<td></td>
 		<td>u</td>
 	</tr>
 	<tr>
-		<th>半広(～中央)</th>
-		<td>ɛ</td>
+		<th>広めの狭</th>
+		<td></td>
+		<td>ɪ</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>半狭</th>
+		<td>e</td>
+		<td></td>
+		<td>o</td>
+	</tr>
+	<tr>
+		<th>半広</th>
+		<td></td>
+		<td></td>
 		<td>ɔ</td>
 	</tr>
 	<tr>
 		<th>広</th>
-		<td colspan="2">a</td>
+		<td></td>
+		<td>a</td>
+		<td></td>
 	</tr>
 </table>
 
