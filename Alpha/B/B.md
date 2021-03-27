@@ -213,6 +213,42 @@
 	</tr>
 </table>
 
+母音
+<table>
+	<tr>
+		<th>a</th>
+		<td>/a/</td>
+	</tr>
+	<tr>
+		<th>e</th>
+		<td>/e/</td>
+	</tr>
+	<tr>
+		<th>é</th>
+		<td>/e/ 共鳴音(m,n,r,l)の前で/a/</td>
+	</tr>
+	<tr>
+		<th>i</th>
+		<td>/ɪ/</td>
+	</tr>
+	<tr>
+		<th>í</th>
+		<td>/i/</td>
+	</tr>
+	<tr>
+		<th>o</th>
+		<td>/o/</td>
+	</tr>
+	<tr>
+		<th>ó</th>
+		<td>/ɔ/</td>
+	</tr>
+	<tr>
+		<th>u</th>
+		<td>/u/</td>
+	</tr>
+</table>
+
 ### 母音交替
 名詞と動詞でとる交替が異なるため注意。
 また、無標がIとなる順で示されているため、名詞の階梯は祖語と順番が異なる。
