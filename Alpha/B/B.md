@@ -138,10 +138,85 @@
 全体の長さが2以下の場合は最初の音節に高アクセントが付く。
 一部の1音節の機能語には高アクセントがつかない場合もある。
 
+### 綴字(仮)
+制作上用いる仮の綴字を示す。
+
+子音
+<table>
+	<tr>
+		<th>p</th>
+		<td>/p/</td>
+	</tr>
+	<tr>
+		<th>b</th>
+		<td>/b/</td>
+	</tr>
+	<tr>
+		<th>t</th>
+		<td>/t/</td>
+	</tr>
+	<tr>
+		<th>d</th>
+		<td>/d/</td>
+	</tr>
+	<tr>
+		<th>k</th>
+		<td>/k/ e,i,íの前で/tʃ/</td>
+	</tr>
+	<tr>
+		<th>g</th>
+		<td>/g/ e,i,íの前で/dʒ/</td>
+	</tr>
+	<tr>
+		<th>x</th>
+		<td>/x/ e,i,íの前で/ç/</td>
+	</tr>
+	<tr>
+		<th>m</th>
+		<td>/m/</td>
+	</tr>
+	<tr>
+		<th>n</th>
+		<td>/n/</td>
+	</tr>
+	<tr>
+		<th>r</th>
+		<td>/ɾ/</td>
+	</tr>
+	<tr>
+		<th>f</th>
+		<td>/f/</td>
+	</tr>
+	<tr>
+		<th>v</th>
+		<td>/v</td>
+	</tr>
+	<tr>
+		<th>θ</th>
+		<td>/θ/</td>
+	</tr>
+	<tr>
+		<th>s</th>
+		<td>/s/</td>
+	</tr>
+	<tr>
+		<th>ʃ</th>
+		<td>/ʃ/</td>
+	</tr>
+	<tr>
+		<th>ʒ</th>
+		<td>/ʒ/</td>
+	</tr>
+	<tr>
+		<th>l</th>
+		<td>/l/</td>
+	</tr>
+</table>
+
 ### 母音交替
 名詞と動詞でとる交替が異なるため注意。
 また、無標がIとなる順で示されているため、名詞の階梯は祖語と順番が異なる。
-※綴字表記
+※仮の綴字表記
 
 名詞
 <table>
