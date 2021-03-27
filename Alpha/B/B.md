@@ -139,8 +139,10 @@
 一部の1音節の機能語には高アクセントがつかない場合もある。
 
 ### 母音交替
-名詞・動詞ともにこの交替をとるが、名詞は順序に注意が必要。
-Iの階梯がiの変化はuの変化に合流している。
+名詞と動詞でとる交替が異なるため注意。
+また、無標がIとなる順で示されているため、名詞の階梯は祖語と順番が異なる。
+
+名詞
 <table>
 	<tr>
 		<th>I</th>
@@ -148,24 +150,48 @@ Iの階梯がiの変化はuの変化に合流している。
 		<th>III</th>
 	</tr>
 	<tr>
+		<td>o,ó,é</td>
+		<td>ó</td>
 		<td>a</td>
-		<td>ɛ</td>
-		<td>i</td>
 	</tr>
 	<tr>
-		<td>ɛ</td>
-		<td>i</td>
+		<td>í</td>
+		<td>é</td>
 		<td>u</td>
 	</tr>
 	<tr>
-		<td>ɔ</td>
-		<td>ɛ</td>
-		<td>ɛ</td>
+		<td>u,i</td>
+		<td>u</td>
+		<td>í</td>
+	</tr>
+</table>
+
+動詞
+<table>
+	<tr>
+		<th>I</th>
+		<th>II</th>
+		<th>III</th>
+	</tr>
+	<tr>
+		<td>é</td>
+		<td>í</td>
+		<td>u</td>
+	</tr>
+	<tr>
+		<td>í</td>
+		<td>u</td>
+		<td>u,i</td>
+	</tr>
+	<tr>
+		<td>ó</td>
+		<td>ó,é</td>
+		<td>a</td>
 	</tr>
 	<tr>
 		<td>u</td>
-		<td>i</td>
-		<td>i</td>
+		<td>u,i</td>
+		<td>í</td>
 	</tr>
 </table>
 
