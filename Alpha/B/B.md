@@ -8,7 +8,7 @@
 
 ### 子音
 <table>
- <tr>
+ 	<tr>
   		<th></th>
 		<th>両唇</th>
 		<th>唇歯</th>
@@ -17,6 +17,7 @@
 		<th>後部歯茎</th>
 		<th>硬口蓋</th>
 		<th>軟口蓋</th>
+	 	<th>声門</th>
 	</tr>
 	<tr>
 		<th>破裂</th>
@@ -27,6 +28,7 @@
 		<td></td>
 		<td></td>
 		<td>k g</td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>鼻</th>
@@ -34,6 +36,7 @@
 		<td></td>
 		<td></td>
 		<td>n</td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -47,6 +50,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>摩擦</th>
@@ -57,6 +61,7 @@
 		<td>ʃ ʒ</td>
 		<td>(ç)</td>
 		<td>x</td>
+		<td>h</td>
 	</tr>
 	<tr>
 		<th>破擦</th>
@@ -65,6 +70,7 @@
 		<td></td>
 		<td></td>
 		<td>(tʃ) (dʒ)</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -77,11 +83,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
-</table>
-<table>
-	<th>同時調音</th>
-	<td>w</td>
 </table>
 括弧内は条件異音。
 
@@ -211,6 +214,10 @@
 		<th>l</th>
 		<td>/l/</td>
 	</tr>
+	<tr>
+		<th>h</th>
+		<td>/h/</td>
+	</tr>
 </table>
 
 母音
@@ -322,28 +329,28 @@
 	</tr>
 	<tr>
 		<th>主格</th>
-		<td>-II-ɔs</td>
-		<td>-II-ɛpɔs</td>
+		<td>-I-</td>
+		<td>-I-é</td>
 	</tr>
 	<tr>
 		<th>題格</th>
-		<td>-I-i</td>
-		<td>-I-ɛpi</td>
+		<td>-II-bi</td>
+		<td>-II-ébi</td>
 	</tr>
 	<tr>
 		<th>対格</th>
 		<td>-III-</td>
-		<td>-III-ɛ</td>
+		<td>-III-é</td>
 	</tr>
 	<tr>
 		<th>与格</th>
 		<td>-III-s</td>
-		<td>-III-ɛss</td>
+		<td>-III-éfs</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
-		<td>-I-</td>
-    		<td>-I-ɛu</td>
+		<td>-II-</td>
+    		<td>-II-éu</td>
 	</tr>
 </table>
 
@@ -368,48 +375,48 @@
 	</tr>
 	<tr>
 		<th>主格</th>
-		<td>alɛ</td>
-		<td>mɛɾɔs</td>
-		<td>ɛhɔs</td>
-		<td>hukɔs</td>
-	  	<td>lidɔs</td>
-		<td>tudɔs</td>
+		<td>alé</td>
+		<td>mél</td>
+		<td>éf</td>
+		<td>fu</td>
+	  	<td>li</td>
+		<td>fu</td>
 	</tr>
 	<tr>
 		<th>題格</th>
-		<td>ali</td>
-		<td>maɾi</td>
-		<td>ahi</td>
-		<td>hiki</td>
-		<td>ludi</td>
-		<td>tidi</td>
+		<td>albi</td>
+		<td>malbi</td>
+		<td>abbi</td>
+		<td>fíkbi</td>
+		<td>ludbi</td>
+		<td>fídbi</td>
 	</tr>
 	<tr>
 		<th>対格</th>
 		<td>ali</td>
-		<td>mɾi</td>
-		<td>if</td>
-		<td>hi</td>
-		<td>li</td>
-		<td>ti</td>
+		<td>míl</td>
+		<td>íf</td>
+		<td>fi</td>
+		<td>lí</td>
+		<td>fi</td>
 	</tr>
 	<tr>
 		<th>与格</th>
 		<td>alis</td>
-		<td>miɾs</td>
-		<td>ifs</td>
-		<td>hiks</td>
-		<td>lidz</td>
-		<td>tidz</td>
+		<td>mís</td>
+		<td>ífs</td>
+		<td>fiks</td>
+		<td>líz</td>
+		<td>fiz</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
 		<td>al</td>
-		<td>mɾa</td>
+		<td>mal</td>
 		<td>af</td>
-		<td>hi</td>
+		<td>fí</td>
 		<td>lu</td>
-		<td>ti</td>
+		<td>fí</td>
 	</tr>
 </table>
 
@@ -435,51 +442,40 @@
 	<tr>
 		<th>主格</th>
 		<td colspan="2">biu</td>
-		<td colspan="2">wiu</td>
+		<td colspan="2">hiu</td>
 		<td colspan="2">giu</td>
-		<td>ɛiː</td>
-		<td>ɛiɛ</td>
-	</tr>
-	<tr>
-		<th>題格</th>
-		<td>biː</td>
-		<td>biɛpi</td>
-		<td>wiː</td>
-		<td>wiɛpi</td>
-		<td>giː</td>
-		<td>giɛpi</td>
-		<td>aiː</td>
-		<td>aiɛpi</td>
+		<td>éfí</td>
+		<td>éfie</td>
 	</tr>
 	<tr>
 		<th>対格</th>
-		<td colspan="2">biː</td>
-		<td colspan="2">wiː</td>
-		<td colspan="2">giː</td>
-		<td>iː</td>
-		<td>iːɛ</td>
+		<td colspan="2">bí</td>
+		<td colspan="2">hí</td>
+		<td colspan="2">gí</td>
+		<td>ífí</td>
+		<td>ífie</td>
 	</tr>
 	<tr>
 		<th>与格</th>
-		<td>biːs</td>
-		<td>biːsɛ</td>
-		<td>wiːs</td>
-		<td>wiːsɛ</td>
-		<td>giːs</td>
-		<td>giːsɛ</td>
-		<td>iːs</td>
-		<td>iːsɛ</td>
+		<td>bís</td>
+		<td>bísé</td>
+		<td>hís</td>
+		<td>hísé</td>
+		<td>gís</td>
+		<td>gísé</td>
+		<td>ífís</td>
+		<td>ífísé</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
-		<td>biː</td>
-		<td>biɛu</td>
-		<td>wiː</td>
-		<td>wiɛu</td>
-		<td>giː</td>
-		<td>giɛu</td>
-		<td>aiː</td>
-		<td>aiɛu</td>
+		<td>bí</td>
+		<td>bíeu</td>
+		<td>hí</td>
+		<td>híeu</td>
+		<td>gí</td>
+		<td>gíeu</td>
+		<td>afí</td>
+		<td>afíeu</td>
 	</tr>
 </table>
 
@@ -502,38 +498,31 @@
 	</tr>
 	<tr>
 		<th>主格</th>
-		<td>-II-</td>
-		<td>-II-ɛ</td>
-		<td>-II-ɾi</td>
-		<td>-II-ɛpɾi</td>
-	</tr>
-	<tr>
-		<th>題格</th>
-		<td>-I-i</td>
-		<td>-I-ɛpi</td>
-		<td>-I-ɾi</td>
-		<td>-I-ɛpɾi</td>
+		<td>-I-</td>
+		<td>-I-é</td>
+		<td>-I-il</td>
+		<td>-I-épil</td>
 	</tr>
 	<tr>
 		<th>対格</th>
 		<td>-III-</td>
-		<td>-III-ɛ</td>
-		<td>-III-ɾi</td>
-		<td>-III-ɛpɾi</td>
+		<td>-III-é</td>
+		<td>-III-il</td>
+		<td>-III-épil</td>
 	</tr>
 	<tr>
 		<th>与格</th>
 		<td>-III-s</td>
-		<td>-III-ɛss</td>
-		<td>-III-sɾi</td>
-		<td>-III-ɛssɾi</td>
+		<td>-III-éfs</td>
+		<td>-III-sil</td>
+		<td>-III-éfsil</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
-		<td>-I-</td>
-		<td>-I-ɛu</td>
-		<td>-I-tɾi</td>
-		<td>-I-ɛutɾi</td>
+		<td>-II-</td>
+		<td>-II-eu</td>
+		<td>-II-til</td>
+		<td>-II-eutil</td>
 	</tr>
 </table>
 
@@ -553,34 +542,31 @@
 	</tr>
 	<tr>
 		<th>主格</th>
-		<td rowspan="2">-II-ɛ</td>
-		<td rowspan="2">-II-ɛpɛ</td>
-		<td rowspan="2">-II-i</td>
-		<td rowspan="2">-II-ɛpi</td>
-	</tr>
-	<tr>
-		<th>題格</th>
+		<td>-I-é</td>
+		<td>-I-épé</td>
+		<td>-I-i</td>
+		<td>-I-épi</td>
 	</tr>
 	<tr>
 		<th>対格</th>
-		<td>-III-ɛ</td>
-		<td>-III-ɛpɛ</td>
+		<td>-III-é</td>
+		<td>-III-épé</td>
 		<td>-III-i</td>
-		<td>-III-ɛpi</td>
+		<td>-III-épi</td>
 	</tr>
 	<tr>
 		<th>与格</th>
-		<td>-III-sɛ</td>
-		<td>-III-ɛssɛ</td>
+		<td>-III-sé</td>
+		<td>-III-éfsé</td>
 		<td>-III-si</td>
-		<td>-III-ɛssi</td>
+		<td>-III-éfsi</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
-		<td>-I-tɛ</td>
-		<td>-I-ɛutɛ</td>
-		<td>-I-ti</td>
-		<td>-I-ɛuti</td>
+		<td>-II-té</td>
+		<td>-II-euté</td>
+		<td>-II-ti</td>
+		<td>-II-euti</td>
 	</tr>
 </table>
 
@@ -600,33 +586,30 @@
 	</tr>
 	<tr>
 		<th>主格</th>
-		<td rowspan="2">-II-ɾa</td>
-		<td rowspan="2">-II-ɛpɾa</td>
-		<td rowspan="2">-II-ɾɛ</td>
-		<td rowspan="2">-II-ɛpɾɛ</td>
-	</tr>
-	<tr>
-		<th>題格</th>
+		<td>-I-al</td>
+		<td>-I-épal</td>
+		<td>-I-él</td>
+		<td>-I-épél</td>
 	</tr>
 	<tr>
 		<th>対格</th>
-		<td>-III-ɾa</td>
-		<td>-III-ɛpɾa</td>
-		<td>-III-ɾɛ</td>
-		<td>-III-ɛpɾɛ</td>
+		<td>-III-al</td>
+		<td>-III-épal</td>
+		<td>-III-él</td>
+		<td>-III-épél</td>
 	</tr>
 	<tr>
 		<th>与格</th>
-		<td>-III-sɾa</td>
-		<td>-III-ɛssɾa</td>
-		<td>-III-sɾɛ</td>
-		<td>-III-ɛssɾɛ</td>
+		<td>-III-sal</td>
+		<td>-III-éfsal</td>
+		<td>-III-sél</td>
+		<td>-III-éfsél</td>
 	</tr>
 	<tr>
 		<th>奪格</th>
-		<td>-I-tɾa</td>
-		<td>-I-ɛutɾa</td>
-		<td>-I-tɾɛ</td>
-		<td>-I-ɛutɾɛ</td>
+		<td>-II-tal</td>
+		<td>-II-eutal</td>
+		<td>-II-tél</td>
+		<td>-II-eutél</td>
 	</tr>
 </table>
