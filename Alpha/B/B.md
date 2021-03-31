@@ -263,7 +263,7 @@
 		<th>III</th>
 	</tr>
 	<tr>
-		<td>o,ó,é</td>
+		<td>a,e,é,o,ó,</td>
 		<td>ó</td>
 		<td>a</td>
 	</tr>
@@ -287,7 +287,7 @@
 		<th>III</th>
 	</tr>
 	<tr>
-		<td>é</td>
+		<td>a,é</td>
 		<td>í</td>
 		<td>u</td>
 	</tr>
