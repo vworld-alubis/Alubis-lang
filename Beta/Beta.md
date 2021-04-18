@@ -47,6 +47,15 @@
     <td colspan="3"></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <th>母音</th>
+    <td>a</th>
+    <td>e</td>
+    <td>i</td>
+    <td>o</td>
+    <td>u</td>
+    <td>ə</td>
 
 ## 音韻
 ### 子音
