@@ -50,7 +50,7 @@
 <table>
   <tr>
     <th>母音</th>
-    <td>a</th>
+    <td>a</td>
     <td>e</td>
     <td>i</td>
     <td>o</td>
