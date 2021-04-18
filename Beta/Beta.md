@@ -213,7 +213,7 @@ VCCVという語がある場合、VCとCVが別音節となる。
     <th>不定</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>-ex</td>
+    <td>なし</td>
   </tr>
 </table>
