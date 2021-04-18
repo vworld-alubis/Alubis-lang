@@ -56,6 +56,8 @@
     <td>o</td>
     <td>u</td>
     <td>ə</td>
+  </tr>
+</table>
 
 ## 音韻
 ### 子音
